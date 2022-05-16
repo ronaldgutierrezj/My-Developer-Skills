@@ -36,7 +36,8 @@ li, li span{
 
 li {
     margin: 30px 0 30px 0;
-    color: rgb(255	143	41)
+    color: rgb(255	143	41);
+    text-transform: capitalize;
 }
 li span {
     color: white;
